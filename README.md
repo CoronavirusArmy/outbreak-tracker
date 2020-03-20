@@ -1,6 +1,6 @@
 # outbreak-tracker
 
-[Latest Spec Doc](https://docs.google.com/document/d/1HwPAxlJCJGnP4xhgRTlc8Sj-9uCz6ND-xtjSFfoeqbk/edit?usp=sharing)
+[Latest Spec Doc](https://docs.google.com/document/d/1HwPAxlJCJGnP4xhgRTlc8Sj-9uCz6ND-xtjSFfoeqbk/edit?usp=sharing)  
 [Original Reddit Post](https://www.reddit.com/r/CoronavirusArmy/comments/fkteny/idea_outbreak_tracker/)
 
 ---
